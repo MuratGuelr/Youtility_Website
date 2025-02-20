@@ -43,22 +43,6 @@
 4. **Click** Download
 5. **Enjoy** your video!
 
-## 🖼️ Screenshots
-
-<details>
-<summary>Click to view screenshots</summary>
-
-![Main Interface](screenshots/main.png)
-_Main interface with modern design_
-
-![Download Options](screenshots/options.png)
-_Multiple download options available_
-
-![Settings Panel](screenshots/settings.png)
-_Customizable settings_
-
-</details>
-
 ## 🛠️ Technical Features
 
 - **Built with**: Python, PyQt6
