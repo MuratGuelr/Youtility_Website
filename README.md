@@ -101,5 +101,5 @@ If you encounter any issues or have questions:
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/MuratGuelr">Murat Gülr</a>
+  Made with ❤️ by <a href="https://github.com/MuratGuelr">Murat Güler</a>
 </div>
